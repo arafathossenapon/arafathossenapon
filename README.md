@@ -10,7 +10,13 @@
 
 ## About Me
 
-I build web applications with a focus on backend APIs, data modeling, and practical interfaces. My past work includes a PHP 8 MVC application backed by Oracle Database for managing challenge submissions and judging. [Innovation Challenge Management System (ICMS)](https://github.com/arafathossenapon/ICMS-Innovation-Challenge-Management-System)
+I'm Md. Arafat Hossen Apon, a Computer Science and Engineering undergraduate at American International University-Bangladesh (AIUB). I major in Software Engineering, have a CGPA of 3.77, and am based in Dhaka, Bangladesh.
+
+I'm a frontend-focused web developer building my full-stack skills. I use React, Next.js, and TypeScript to build interfaces that work well on phones and desktops. I'm also learning to design the REST APIs and data models behind them.
+
+I built and deployed AmarMess on my own to help a shared household track meals and settle expenses. On a team project, I built the admin dashboard and workflows for managing accounts and moderating job postings.
+
+I want to become a software engineer who can take a real problem from design through delivery. I'm strengthening my fundamentals and learning to weigh trade-offs so I can build software that stays maintainable as it grows. Long term, I'd like to build products people rely on and start a technology company of my own.
 
 ## Featured Projects
 
