@@ -1,183 +1,102 @@
-<!-- BANNER -->
-<div align="center">
-  <a href="https://github.com/arafathossenapon">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=39FF14&center=true&vCenter=true&random=false&width=600&height=60&lines=Hello%2C+World!+I'm+Arafat.;CSE+Student+%7C+Aspiring+Software+Engineer;Full-Stack+Web+Development;Building+Projects.+Learning+Every+Day.;Turning+Ideas+into+Code."
-      alt="Typing banner"
-    />
-  </a>
-</div>
+<h1 align="center">MD. Arafat Hossen Apon</h1>
 
-<!-- INTRODUCTION -->
-<div align="center">
-
-<h1>MD. ARAFAT HOSSEN APON</h1>
-
-<p>
-  <b>CSE Student</b> at <b>American International University-Bangladesh (AIUB)</b>
-  &nbsp;|&nbsp;
-  <b>Aspiring Software Engineer</b><br>
-  <i>Focused on Full-Stack Web Development &amp; Database-Driven Systems</i>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=18&amp;duration=1700&amp;color=39FF14&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=400&amp;height=34&amp;lines=Full-stack+web+development" alt="Full-stack web development" width="400" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-0D1117?style=flat-square&logo=googlemaps&logoColor=39FF14&labelColor=000000" alt="Location: Dhaka, Bangladesh" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Web%20Dev-0D1117?style=flat-square&logo=code&logoColor=39FF14&labelColor=000000" alt="Focus: Full-Stack Web Dev" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Continuous%20Learning-0D1117?style=flat-square&logo=bookstack&logoColor=39FF14&labelColor=000000" alt="Status: Continuous Learning" />
+<p align="center">
+  Aspiring software engineer and CSE student at <strong>American International University-Bangladesh (AIUB)</strong>
 </p>
 
-</div>
+## About Me
+
+I build web applications with a focus on backend APIs, data modeling, and practical interfaces. My past work includes a PHP 8 MVC application backed by Oracle Database for managing challenge submissions and judging. [Innovation Challenge Management System (ICMS)](https://github.com/arafathossenapon/ICMS-Innovation-Challenge-Management-System)
+
+## Featured Projects
+
+### AmarMess
+
+A mobile-friendly meal and expense ledger for student messes and shared households. Members can see what they owe or have already paid, and managers can close out each month from the same ledger.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-39FF14?style=flat-square)](https://amar-mess.vercel.app/) &nbsp; [**Source Code**](https://github.com/arafathossenapon/AmarMess)
+
+- Records daily meals and deposits, allocates grocery costs by meal count, and splits bills among selected members.
+- Supports invitation-based accounts, delegated entry permissions, month-end balance carryover, PDF reports, and legacy ledger import with balance reconciliation.
+
+`TypeScript` · `Next.js` · `React` · `Express` · `MongoDB` · `Better Auth` · `Tailwind CSS` · `Vercel`
 
 ---
 
-### ⚡ About Me
+### ChaBondhu
 
-```json
-{
-  "name": "MD. Arafat Hossen Apon",
-  "role": "CSE Student | Aspiring Software Engineer",
-  "university": "American International University-Bangladesh (AIUB)",
-  "location": "Dhaka, Bangladesh",
-  "primary_focus": "Full-Stack Web Development",
-  "career_goal": "Become a skilled software engineer and build impactful projects"
-}
-```
+A backend MVP designed to help smallholder tea growers in Panchagarh connect directly with local processing factories and compare prices for tea leaves.
 
-- **Education:** CSE student at **American International University-Bangladesh (AIUB)**.
-- **Interests:** Software engineering and full-stack web development; passionate about building web-based applications and database-driven systems.
-- **Practical Experience:**
-  - Developed the **ICMS (Innovation Challenge Management System)** using PHP 8 MVC and Oracle Database.
-  - Contributed to the **CareerLink Online Job Portal** — designed and built its complete administrative panel.
-- **Career Goal:** Continuous learning, refining problem-solving skills, and delivering reliable, impactful software.
-- **Ask Me About:** PHP MVC architecture, relational databases (Oracle, MySQL, SQL Server, PostgreSQL), and programming with Java, C++, and Python.
+- **On main** — JWT authentication and role-based access, grower and factory profiles, factory verification with review history, searchable harvest listings, and price offer publishing and browsing.
+- **On the offer lifecycle branch** — Verified factories can edit or withdraw their own active offers, and a background job marks expired offers.
+
+Procurement orders and payment tracking are planned.
+
+`TypeScript` · `NestJS` · `PostgreSQL` · `TypeORM` · `Swagger / OpenAPI`
+
+[Source Code](https://github.com/arafathossenapon/ChaBondhu) · [Offer lifecycle branch](https://github.com/arafathossenapon/ChaBondhu/tree/feature/offer-lifecycle-management)
 
 ---
 
-### 🛠️ Tech Stack
+### CareerLink — Online Job Portal
 
-**Programming Languages**
+A PHP MVC portal where job seekers browse openings and submit applications, and employers publish jobs and manage applicants.
 
-<img src="https://skillicons.dev/icons?i=java,cpp,py,js,ts,cs,php&theme=dark&perline=9" height="30" alt="Java, C++, Python, JavaScript, TypeScript, C#, PHP" />
+**Contributor.** I designed and built the admin panel, including dashboard statistics, search and filters for accounts and postings, status changes, deletions, and administrator session checks.
 
-**Frameworks**
+`PHP` · `MySQL` · `HTML` · `CSS` · `JavaScript`
 
-<img src="https://skillicons.dev/icons?i=dotnet,nestjs,react&theme=dark&perline=9" height="30" alt="ASP.NET Core, NestJS, React" />
-
-**Web Technologies**
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap&theme=dark&perline=9" height="30" alt="HTML, CSS, Tailwind CSS, Bootstrap" />
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark&perline=9" height="30" alt="MySQL, PostgreSQL, MongoDB" />
-&nbsp;
-<img src="https://img.shields.io/badge/Oracle%20Database-000000?style=flat-square&logo=oracle&logoColor=F80000" alt="Oracle Database" />
-&nbsp;
-<img src="https://img.shields.io/badge/SQL%20Server-000000?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927" alt="Microsoft SQL Server" />
-
-**Tools & Workflow**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark&perline=9" height="30" alt="Git, GitHub, VS Code, Visual Studio" />
+[Source Code](https://github.com/Mushfika900/CareerLink-Online-Job-Portal) · [Admin panel pull request](https://github.com/Mushfika900/CareerLink-Online-Job-Portal/pull/5)
 
 ---
 
-### 🚀 Featured Projects
+### InspectFlow
 
-**🏆 ICMS – Innovation Challenge Management System**
+A staging QA platform where testers report bugs with annotated screenshots, developers track fixes, and reviewers record decisions on specific builds.
 
-A web-based database system for managing innovation challenges, teams, participants, project submissions, judges, evaluations, and awards. Features centralized administration with secure authentication.
+**Contributor.** I adapted and integrated the developer-side APIs for ticket assignment, status changes, branch and pull request linking, and build handoff to reviewers. I also corrected project membership checks, added tests for access and ticket transitions, and documented the workflow in Postman.
 
-**Tech Stack:** `PHP 8` · `Oracle Database` · `OCI8` · `HTML` · `CSS` · `JavaScript` · `MVC`
+`TypeScript` · `NestJS` · `Next.js` · `Prisma` · `PostgreSQL` · `Postman`
 
-[![View Repository](https://img.shields.io/badge/Repository-View%20Code-0D1117?style=flat-square&logo=github&logoColor=39FF14&labelColor=000000)](https://github.com/arafathossenapon/ICMS-Innovation-Challenge-Management-System)
+[Source Code](https://github.com/Jisan179/Advance-Web-Tec-Mid-Project) · [Developer workflow pull request](https://github.com/Jisan179/Advance-Web-Tec-Mid-Project/pull/2)
 
----
+## Tech Stack & Skills
 
-**💼 CareerLink – Online Job Portal** &nbsp; ![Contributor](https://img.shields.io/badge/Role-Contributor-0D1117?style=flat-square&logo=handshake&logoColor=39FF14&labelColor=000000)
+![Languages](https://img.shields.io/badge/Languages-0D1117?style=flat-square&logo=typescript&logoColor=39FF14) &nbsp; Java · C++ · Python · JavaScript · TypeScript · C# · PHP
 
-A PHP MVC-based online job portal connecting job seekers and employers.
+![Frameworks and libraries](https://img.shields.io/badge/Frameworks_%26_Libraries-0D1117?style=flat-square&logo=react&logoColor=39FF14) &nbsp; ASP.NET Core · NestJS · React · Next.js · Express
 
-**My Contribution:** Developed the complete administrative panel, including admin CRUD operations, user account management, and platform oversight.
+![Web and styling](https://img.shields.io/badge/Web_%26_Styling-0D1117?style=flat-square&logo=css&logoColor=39FF14) &nbsp; HTML · CSS · Tailwind CSS · Bootstrap
 
-**Tech Stack:** `PHP` · `MySQL` · `phpMyAdmin` · `HTML` · `CSS` · `JavaScript` · `MVC`
+![Databases](https://img.shields.io/badge/Databases-0D1117?style=flat-square&logo=postgresql&logoColor=39FF14) &nbsp; Oracle Database · MySQL · SQL Server · MongoDB · PostgreSQL
 
-[![View Repository](https://img.shields.io/badge/Repository-View%20Code-0D1117?style=flat-square&logo=github&logoColor=39FF14&labelColor=000000)](https://github.com/Mushfika900/CareerLink-Online-Job-Portal)
+![Data access](https://img.shields.io/badge/Data_Access-0D1117?style=flat-square&logo=typeorm&logoColor=39FF14) &nbsp; TypeORM · Mongoose
 
----
+![Tools and runtimes](https://img.shields.io/badge/Tools_%26_Runtimes-0D1117?style=flat-square&logo=git&logoColor=39FF14) &nbsp; Git · GitHub · VS Code · Visual Studio · Linux · Node.js · Vercel
 
-### 📊 GitHub Statistics
+## GitHub Statistics
 
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="6">
-    <tr>
-      <td align="center">
-        <a href="https://github.com/arafathossenapon">
-          <img
-            src="https://github-readme-stats.vercel.app/api?username=arafathossenapon&show_icons=true&locale=en&bg_color=0D1117&title_color=39FF14&text_color=F0F6FC&icon_color=39FF14&border_color=30363D&hide_border=false"
-            alt="GitHub profile statistics"
-            width="420"
-          />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/arafathossenapon">
-          <img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafathossenapon&layout=compact&bg_color=0D1117&title_color=39FF14&text_color=F0F6FC&border_color=30363D&hide_border=false"
-            alt="Top languages"
-            width="320"
-          />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arafathossenapon&amp;show_icons=true&amp;bg_color=0D1117&amp;title_color=39FF14&amp;text_color=F0F6FC&amp;icon_color=39FF14&amp;border_color=30363D" alt="GitHub statistics for arafathossenapon" width="420" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafathossenapon&amp;layout=compact&amp;bg_color=0D1117&amp;title_color=39FF14&amp;text_color=F0F6FC&amp;border_color=30363D" alt="Languages used most in arafathossenapon's GitHub repositories" width="320" />
+</p>
+
+## Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=arafathossenapon&amp;theme=dark&amp;background=0D1117&amp;border=30363D&amp;stroke=39FF14&amp;ring=39FF14&amp;fire=39FF14&amp;currStreakNum=39FF14&amp;sideNums=F0F6FC&amp;sideLabels=8B949E&amp;dates=8B949E" alt="GitHub contribution streak for arafathossenapon" width="420" />
+</p>
+
+## Connect With Me
+
+[Email](mailto:arafathossenapon@gmail.com) · [LinkedIn](https://www.linkedin.com/in/arafat-hossen-apon-0aa296316) · [GitHub](https://github.com/arafathossenapon) · [LeetCode](https://leetcode.com/u/arafathossenapon/) · [Codeforces](https://codeforces.com/profile/arafat_h_apon)
 
 ---
 
-### 🔥 Contribution Streak
-
-<div align="center">
-  <a href="https://github.com/arafathossenapon">
-    <img
-      src="https://streak-stats.demolab.com/?user=arafathossenapon&theme=dark&background=0D1117&border=30363D&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakNum=39FF14&sideNums=F0F6FC&sideLabels=8B949E&dates=8B949E&hide_border=false"
-      alt="Contribution streak"
-      width="80%"
-    />
-  </a>
-</div>
-
----
-
-### 🌐 Connect With Me
-
-<div align="center">
-
-  <a href="mailto:arafathossenapon@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0D1117?style=flat-square&logo=gmail&logoColor=39FF14&labelColor=000000" alt="Gmail" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/arafat-hossen-apon-0aa296316" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=39FF14&labelColor=000000" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/arafathossenapon" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=39FF14&labelColor=000000" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/arafathossenapon/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LeetCode-0D1117?style=flat-square&logo=leetcode&logoColor=39FF14&labelColor=000000" alt="LeetCode" />
-  </a>
-  &nbsp;
-  <a href="https://codeforces.com/profile/arafat_h_apon" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Codeforces-0D1117?style=flat-square&logo=codeforces&logoColor=39FF14&labelColor=000000" alt="Codeforces" />
-  </a>
-
-</div>
-
----
-
-<div align="center">
-  <sub>MD. Arafat Hossen Apon &nbsp;·&nbsp; Dhaka, Bangladesh</sub>
-</div>
+<p align="center"><sub>Based in Dhaka, Bangladesh</sub></p>
